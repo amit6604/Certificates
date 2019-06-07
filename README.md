@@ -1,1 +1,1 @@
-# Certificates earned by me.
+# This repo contains all Certificates earned online by IBM intiative Cognitive Classes.
